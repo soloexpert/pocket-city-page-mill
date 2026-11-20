@@ -6,7 +6,7 @@ Open it at the GitHub Pages link for this repository. `index.html` is a single s
 
 ## What is map fact and what is illustrative
 
-- **From OpenStreetMap:** building footprints, the streets and the junction, the pond, its fountains and footbridge, tree positions and traffic signals.
+- **From OpenStreetMap:** building footprints, the streets and the junction, the pond with its fountains, benches and footbridge, tree positions and traffic signals.
 - **From public listing photos:** silver metal-panel wings with ribbon glass, the red-tile roofs of the older wings, redwoods and pines by the pond, and café umbrellas and string lights on the pond terrace (their exact positions are drawn by eye).
 - **Drawn by eye:** most building heights, the species at each tree position, the woodland fill, house colours, people, traffic and weather.
 
